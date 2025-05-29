@@ -1,0 +1,173 @@
+{
+    "archive_path": "archive/1745944572.543649",
+    "base_url": "bgesmartenergy.com/residential/earn-incentives/connectedrewards",
+    "basename": "connectedrewards",
+    "bookmarked_date": "2025-04-29 16:36",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/bgesmartenergy.com/residential/earn-incentives/connectedrewards",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=bgesmartenergy.com",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": "bgesmartenergy.com/residential/earn-incentives/connectedrewards.html"
+    },
+    "domain": "bgesmartenergy.com",
+    "extension": "",
+    "hash": "1ZNCFXQ22H9J3TB4PHW4",
+    "history": {
+        "archive_org": [],
+        "dom": [],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (x86_64-pc-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=bgesmartenergy.com"
+                ],
+                "cmd_version": "curl 8.10.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-04-29T16:48:13.671024+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/data/archive/1745944572.543649",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-04-29T16:48:13.554539+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [],
+        "htmltotext": [],
+        "media": [],
+        "mercury": [],
+        "pdf": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://bgesmartenergy.com/residential/earn-incentives/connectedrewards"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-04-29T16:40:23.428822+00:00",
+                "index_texts": null,
+                "output": "output.pdf",
+                "pwd": "/data/archive/1745944572.543649",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-04-29T16:40:19.800496+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "readability": [],
+        "screenshot": [],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/app/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--no-sandbox\\\", \\\"--no-zygote\\\", \\\"--disable-dev-shm-usage\\\", \\\"--disable-software-rasterizer\\\", \\\"--run-all-compositor-stages-before-draw\\\", \\\"--hide-scrollbars\\\", \\\"--window-size=1440,2000\\\", \\\"--autoplay-policy=no-user-gesture-required\\\", \\\"--no-first-run\\\", \\\"--use-fake-ui-for-media-stream\\\", \\\"--use-fake-device-for-media-stream\\\", \\\"--disable-sync\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://bgesmartenergy.com/residential/earn-incentives/connectedrewards",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-04-29T16:55:06.541213+00:00",
+                "index_texts": null,
+                "output": "TimeoutExpired: Command '['/app/node_modules/single-file-cli/single-file', '--browser-executable-path=chromium-browser', '--browser-args=[\\\\\"--headless=new\\\\\", \\\\\"--no-sandbox\\\\\", \\\\\"--no-zygote\\\\\", \\\\\"--disable-dev-shm-usage\\\\\", \\\\\"--disable-software-rasterizer\\\\\", \\\\\"--run-all-compositor-stages-before-draw\\\\\", \\\\\"--hide-scrollbars\\\\\", \\\\\"--window-size=1440,2000\\\\\", \\\\\"--autoplay-policy=no-user-gesture-required\\\\\", \\\\\"--no-first-run\\\\\", \\\\\"--use-fake-ui-for-media-stream\\\\\", \\\\\"--use-fake-device-for-media-stream\\\\\", \\\\\"--disable-sync\\\\\", \\\\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\\\", \\\\\"--window-size=1440,2000\\\\\"]', 'https://bgesmartenergy.com/residential/earn-incentives/connectedrewards', 'singlefile.html']' timed out after 60 seconds",
+                "pwd": "/data/archive/1745944572.543649",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-04-29T16:54:06.481746+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (x86_64-pc-linux-gnu)",
+                    "https://bgesmartenergy.com/residential/earn-incentives/connectedrewards"
+                ],
+                "cmd_version": "curl 8.10.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-04-29T16:48:13.905824+00:00",
+                "index_texts": null,
+                "output": "Connected Rewards | BGE Smart Energy",
+                "pwd": "/data/archive/1745944572.543649",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-04-29T16:48:13.678058+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": []
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": null,
+        "dom": null,
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": null,
+        "pdf": "output.pdf",
+        "screenshot": null,
+        "singlefile": "TimeoutExpired: Command '['/app/node_modules/single-file-cli/single-file', '--browser-executable-path=chromium-browser', '--browser-args=[\\\\\"--headless=new\\\\\", \\\\\"--no-sandbox\\\\\", \\\\\"--no-zygote\\\\\", \\\\\"--disable-dev-shm-usage\\\\\", \\\\\"--disable-software-rasterizer\\\\\", \\\\\"--run-all-compositor-stages-before-draw\\\\\", \\\\\"--hide-scrollbars\\\\\", \\\\\"--window-size=1440,2000\\\\\", \\\\\"--autoplay-policy=no-user-gesture-required\\\\\", \\\\\"--no-first-run\\\\\", \\\\\"--use-fake-ui-for-media-stream\\\\\", \\\\\"--use-fake-device-for-media-stream\\\\\", \\\\\"--disable-sync\\\\\", \\\\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\\\", \\\\\"--window-size=1440,2000\\\\\"]', 'https://bgesmartenergy.com/residential/earn-incentives/connectedrewards', 'singlefile.html']' timed out after 60 seconds",
+        "title": "Connected Rewards | BGE Smart Energy",
+        "warc": null,
+        "wget": null
+    },
+    "link_dir": "/data/archive/1745944572.543649",
+    "newest_archive_date": "2025-04-29T16:54:06.481746+00:00",
+    "num_failures": 1,
+    "num_outputs": 11,
+    "oldest_archive_date": "2025-04-29T16:40:19.800496+00:00",
+    "path": "/residential/earn-incentives/connectedrewards",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "f21e305f-402e-46a0-be09-32ef505fb20d",
+    "sources": [
+        "/data/sources/1745944572-import.txt"
+    ],
+    "tags": null,
+    "tags_str": "",
+    "timestamp": "1745944572.543649",
+    "title": "Connected Rewards | BGE Smart Energy",
+    "updated": "2025-04-29T16:54:06.480173+00:00",
+    "updated_date": "2025-04-29 16:54",
+    "url": "https://bgesmartenergy.com/residential/earn-incentives/connectedrewards"
+}

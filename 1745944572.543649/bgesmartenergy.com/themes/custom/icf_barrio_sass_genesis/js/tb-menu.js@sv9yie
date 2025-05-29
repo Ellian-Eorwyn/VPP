@@ -1,0 +1,3 @@
+if (window.matchMedia("(max-width: 991px)").matches) {
+  document.getElementById("tbm-main").classList.add('tbm--mobile');
+}

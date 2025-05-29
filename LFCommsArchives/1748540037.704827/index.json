@@ -1,0 +1,374 @@
+{
+    "archive_path": "archive/1748540037.704827",
+    "base_url": "www.goodenergy.co.uk/renewable-ev-charging/#2025-05-29T17:33:57+00:00",
+    "basename": "",
+    "bookmarked_date": "2025-05-29 17:33",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/www.goodenergy.co.uk/renewable-ev-charging/#2025-05-29T17:33:57+00:00",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=www.goodenergy.co.uk",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": "www.goodenergy.co.uk/renewable-ev-charging/index.html"
+    },
+    "domain": "www.goodenergy.co.uk",
+    "extension": "",
+    "hash": "AY8WYJFW6T0TAS4B79EJ",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (x86_64-pc-linux-gnu)",
+                    "https://web.archive.org/save/https://www.goodenergy.co.uk/renewable-ev-charging/#2025-05-29T17:33:57+00:00"
+                ],
+                "cmd_version": "curl 8.10.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-05-29T17:35:44.813422+00:00",
+                "index_texts": null,
+                "output": "TimeoutExpired: Command '['curl', '--silent', '--location', '--compressed', '--head', '--max-time', '60', '--user-agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (x86_64-pc-linux-gnu)', 'https://web.archive.org/save/https://www.goodenergy.co.uk/renewable-ev-charging/#2025-05-29T17:33:57+00:00']' timed out after 60 seconds",
+                "pwd": "/data/archive/1748540037.704827",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T17:34:44.802468+00:00",
+                "status": "failed"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://www.goodenergy.co.uk/renewable-ev-charging/#2025-05-29T17:33:57+00:00"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-05-29T17:34:22.776205+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/data/archive/1748540037.704827",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T17:34:19.806923+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (x86_64-pc-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=www.goodenergy.co.uk"
+                ],
+                "cmd_version": "curl 8.10.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-05-29T17:33:57.963775+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/data/archive/1748540037.704827",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T17:33:57.803604+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (x86_64-pc-linux-gnu)",
+                    "https://www.goodenergy.co.uk/renewable-ev-charging/#2025-05-29T17:33:57+00:00"
+                ],
+                "cmd_version": "curl 8.10.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-05-29T17:33:58.887535+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/data/archive/1748540037.704827",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T17:33:57.974042+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://www.goodenergy.co.uk/renewable-ev-charging/#2025-05-29T17:33:57+00:00"
+                ],
+                "cmd_version": "2024.12.13",
+                "end_ts": "2025-05-29T17:34:44.771656+00:00",
+                "index_texts": [],
+                "output": "media",
+                "pwd": "/data/archive/1748540037.704827",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T17:34:43.389006+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/app/node_modules/@postlight/parser/cli.js",
+                    "https://www.goodenergy.co.uk/renewable-ev-charging/#2025-05-29T17:33:57+00:00"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-05-29T17:34:43.343209+00:00",
+                "index_texts": null,
+                "output": "mercury",
+                "pwd": "/data/archive/1748540037.704827",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T17:34:41.929071+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://www.goodenergy.co.uk/renewable-ev-charging/#2025-05-29T17:33:57+00:00"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-05-29T17:34:16.090589+00:00",
+                "index_texts": null,
+                "output": "output.pdf",
+                "pwd": "/data/archive/1748540037.704827",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T17:34:11.620953+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/app/node_modules/readability-extractor/readability-extractor",
+                    "/tmp/tmp0fuxxkwk",
+                    "https://www.goodenergy.co.uk/renewable-ev-charging/#2025-05-29T17:33:57+00:00"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-05-29T17:34:41.919026+00:00",
+                "index_texts": [
+                    "Switch to our 100% renewable EV tariff\n            \n            \n            \n\n                    \n\n\n\n                    Join our EV tariff today        \n                    \n            \n\n\n\n\n\n\n\n\n\n\n    \n    \n\n        How to switch to our EV tariff\n        \nJoin Good Energy online\nYou\u2019ll need a smart meter to get our EV tariff. Switching from another supplier to Good Energy usually takes just two days.\n\u00a0\nWe start supplying you\nYou\u2019ll join us on our Standard tariff whilst we check we can connect to your smart meter and move you onto our EV tariff. This can take up to two weeks.\n\u00a0\nWe\u2019ll let you know when your tariff is set up\nWe\u2019ll email you when your EV tariff is set up, and give you the details you need to get your free Zapmap Premium subscription.\n\n\n        \n                    \n                    \n                            \n                                    \n    \n\n\n\n\n    \n    \n\n        What do you need to know?\n        \nGood Energy EV tariffs are fixed tariffs. This means your peak and off-peak prices will be fixed for the duration of the tariff.\u00a0\n\n\nOur EV tariffs are usually 12 months in duration. When you get a quote, you will be able to see the specific tariffs that are currently available.\u00a0\n\n\nIf you switch to another supplier before the end of the fixed tariff, you will be charged an exit fee of \u00a375.\u00a0\u00a0\n\n\nYour off-peak electricity rates run from 12am-5am and are not affected by clock changes.\u00a0\n\n\nYou need a smart meter to join our EV tariff. You must consent to Good Energy collecting half-hourly meter readings.\u00a0\n\n\n        \n                    \n                            \n                                    \n    \n\n\n    \n                            Why Good Energy?\n            \n            \n            \n\n                    \n\n\n\n\n    \n    \n\n        EV charger installation\n        Good Energy offers EV charger installation across England\u2019s South and Midlands.\nOur expert team seamlessly integrate your EV charger with your existing or planned generation or storage; helping you to charge your EV directly from your solar panels.\nWe currently provide the myenergi zappi in tethered or untethered, 7kW or 22kW.\n\n        \n                    \n                    \n                            \n                                                                        \n    \n\n\n\n                                    \n                                                                                    \n                                \n                                                                                    \n                                        \n                                        \n\n                                        \n                                            Good Energy is one of those rare companies that cares about it\u2019s customers and makes sure that everything is carried out to the customer\u2019s satisfaction. They know their stuff when it comes to EV chargers and fitting them, despite my particular set-up requiring some challenges being overcome, this was easily done.                                        \n\n                                                                                    \n                                                Steve White                                            \n                                                                            \n                                \n                                                                        \n                            \n\n\n\n\n\n\n\n**Based on charging a 60kW EV battery for 7.5 hours @8p/kWh. Off-peak period is 5 hours per day only, from 12am-5am, meaning you would have to complete the charge across two off-peak periods. The cost of charging the same car for 7.5 consecutive hours would be around \u00a310."
+                ],
+                "output": "readability",
+                "pwd": "/data/archive/1748540037.704827",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T17:34:41.217721+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://www.goodenergy.co.uk/renewable-ev-charging/#2025-05-29T17:33:57+00:00"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-05-29T17:34:19.790797+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/data/archive/1748540037.704827",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T17:34:16.109049+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/app/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\"--headless=new\", \"--no-sandbox\", \"--no-zygote\", \"--disable-dev-shm-usage\", \"--disable-software-rasterizer\", \"--run-all-compositor-stages-before-draw\", \"--hide-scrollbars\", \"--window-size=1440,2000\", \"--autoplay-policy=no-user-gesture-required\", \"--no-first-run\", \"--use-fake-ui-for-media-stream\", \"--use-fake-device-for-media-stream\", \"--disable-sync\", \"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\", \"--window-size=1440,2000\"]",
+                    "https://www.goodenergy.co.uk/renewable-ev-charging/#2025-05-29T17:33:57+00:00",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-05-29T17:34:11.605760+00:00",
+                "index_texts": null,
+                "output": "singlefile.html",
+                "pwd": "/data/archive/1748540037.704827",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T17:33:58.899225+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (x86_64-pc-linux-gnu)",
+                    "https://www.goodenergy.co.uk/renewable-ev-charging/#2025-05-29T17:33:57+00:00"
+                ],
+                "cmd_version": "curl 8.10.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-05-29T17:34:41.207573+00:00",
+                "index_texts": null,
+                "output": "100% renewable EV charging | Good Energy",
+                "pwd": "/data/archive/1748540037.704827",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T17:34:41.189398+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1748540037.704827/warc/1748540062",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "https://www.goodenergy.co.uk/renewable-ev-charging/#2025-05-29T17:33:57+00:00"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-05-29T17:34:41.180148+00:00",
+                "index_texts": null,
+                "output": "www.goodenergy.co.uk/renewable-ev-charging/index.html",
+                "pwd": "/data/archive/1748540037.704827",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T17:34:22.790796+00:00",
+                "status": "succeeded"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "TimeoutExpired: Command '['curl', '--silent', '--location', '--compressed', '--head', '--max-time', '60', '--user-agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (x86_64-pc-linux-gnu)', 'https://web.archive.org/save/https://www.goodenergy.co.uk/renewable-ev-charging/#2025-05-29T17:33:57+00:00']' timed out after 60 seconds",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": "media",
+        "pdf": "output.pdf",
+        "screenshot": "screenshot.png",
+        "singlefile": "singlefile.html",
+        "title": "100% renewable EV charging | Good Energy",
+        "warc": null,
+        "wget": "www.goodenergy.co.uk/renewable-ev-charging/index.html"
+    },
+    "link_dir": "/data/archive/1748540037.704827",
+    "newest_archive_date": "2025-05-29T17:34:44.802468+00:00",
+    "num_failures": 1,
+    "num_outputs": 11,
+    "oldest_archive_date": "2025-05-29T17:33:57.803604+00:00",
+    "path": "/renewable-ev-charging/",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "f0b01d30-59c7-4a90-90e5-b1b643786dad",
+    "sources": [
+        "/data/sources/1748540037-import.txt"
+    ],
+    "tags": null,
+    "tags_str": "",
+    "timestamp": "1748540037.704827",
+    "title": "100% renewable EV charging | Good Energy",
+    "updated": "2025-05-29T17:33:57.802534+00:00",
+    "updated_date": "2025-05-29 17:33",
+    "url": "https://www.goodenergy.co.uk/renewable-ev-charging/#2025-05-29T17:33:57+00:00"
+}

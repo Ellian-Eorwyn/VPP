@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg"><filter id="noise" x="0" y="0"><feTurbulence type="Turbulence" baseFrequency=".5" numOctaves="100" seed="5" stitchTiles="stitch"/><feDisplacementMap in2="NOISE" in="SourceGraphic" scale="1000"/></filter><rect width="100%" height="100%" filter="url(#noise)" fill="#ffdc14"/></svg>
